@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGameAccounts", "SimpleGameAccounts\SimpleGameAccounts.csproj", "{A698F578-E74E-4F7D-AC2B-BAB6A322A427}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGameAccountsTests", "SimpleGameAccountsTests\SimpleGameAccountsTests.csproj", "{F91542C0-A4E8-4831-8E86-D6058D0FDCDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A698F578-E74E-4F7D-AC2B-BAB6A322A427}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A698F578-E74E-4F7D-AC2B-BAB6A322A427}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A698F578-E74E-4F7D-AC2B-BAB6A322A427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91542C0-A4E8-4831-8E86-D6058D0FDCDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91542C0-A4E8-4831-8E86-D6058D0FDCDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91542C0-A4E8-4831-8E86-D6058D0FDCDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91542C0-A4E8-4831-8E86-D6058D0FDCDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
